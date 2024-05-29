@@ -12,5 +12,8 @@ npm start
 yarn start
 ```
 
+## Deploy on Vercel
+
+https://weatherapp-tau-murex.vercel.app/
 
  
